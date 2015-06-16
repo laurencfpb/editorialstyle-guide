@@ -1,2 +1,2 @@
 # editorialstyle-guide
-CFPB editorial team styleguide 
+CFPB editorial team style guide for web. 
